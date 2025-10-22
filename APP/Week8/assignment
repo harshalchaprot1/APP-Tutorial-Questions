@@ -1,0 +1,18 @@
+Tutorial assignment Week 8 - Java Swing
+
+1. Shopping Cart Simulation
+Create a Swing GUI where users can select items using checkboxes (e.g., "Laptop", "Phone", "Headphones"). When "Generate Bill" is clicked, the selected items and their total price should be 
+
+2. ATM Simulation
+Design a Swing GUI where the user enters a PIN (using JPasswordField) and, if correct, shows options like Check Balance, Deposit, Withdraw using buttons.
+
+3.Employee Management Form
+Create a Swing application to collect employee details (name, department, salary). On submission, store the details in a table (JTable) and display all employees added.
+
+
+4. Calculator (Basic)
+Build a calculator with buttons for digits (0–9) and operations (+, -, *, /). When the "=" button is pressed, display the result in a text field.
+
+
+5. Online Feedback Form
+Create a feedback form where the user rates service (1–5 stars using radio buttons) and enters comments in a text area. On clicking "Submit", show a thank-you message.
